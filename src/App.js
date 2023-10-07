@@ -5,8 +5,7 @@ import Text from './components/Text/Text';
 import PropTypes from 'prop-types'
 import Alert from './components/Alert/Alert';
 import Footer from './components/Footer/Footer';
-import About from './pages/About';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 
 function App() {
   const [alert, setAlert] = useState({
