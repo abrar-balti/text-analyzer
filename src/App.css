@@ -26,6 +26,12 @@
 .preview{
   border: 2px solid #ad2929;
   padding: 8px;
-  border-radius: 6px;
-  box-shadow: 1px 1px 1px 1px #ad2929;
+  border-radius: 3px;
+  /* box-shadow: 1px 1px 1px 1px #ad2929; */
+}
+.text-area {
+  border: 2px solid #ad2929 ;
+}
+.btn-primary:hover{
+  background-color: #ad2929 !important;
 }
