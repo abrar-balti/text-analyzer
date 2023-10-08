@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div className='fluid-container footer'>
       <div className='container d-flex justify-content-center align-items-center'>
-      © 2022. TextAlnayzer. All Rights Reserved.
+      © 2023. TextAlnayzer. All Rights Reserved.
       </div>
     </div>
   )
